@@ -1,0 +1,29 @@
+ShadowFox Internship Tasks
+
+This repository contains all the tasks completed as part of the ShadowFox Data Science Internship.
+
+Repository Structure
+
+How to Run
+
+Clone the Repository
+
+Open the Notebook in Google Colab or Jupyter Notebook
+
+Install Dependencies (If Required)
+
+Run the Notebook Cells
+
+Task Details
+
+Each task folder contains:
+
+The Jupyter Notebook (.ipynb) with code and explanations
+
+The Python script (.py) [optional]
+
+Relevant datasets (if applicable)
+
+Screenshots of the output
+
+A report document (if required)
